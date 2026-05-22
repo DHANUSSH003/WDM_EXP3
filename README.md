@@ -37,7 +37,7 @@ for each wear category.</p>
 8. Visulaize the sequence patterns using matplotlib.
 </p>
 
-## Name: 212224040069
+## Name:Dhanussh Elango
 ## Reg No: 212224040069
 
 ### Program:
